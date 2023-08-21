@@ -9,6 +9,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "tokyo-panda-theme-icon.png",
   "keywords": [
     "theme",
     "tokyo",
@@ -17,6 +18,10 @@
     "dark",
     "developer"
   ],
+  "galleryBanner": {
+    "color": "#B084EB",
+    "theme": "dark"
+},
   "author": "effordDev",
   "license": "MIT",
   "contributes": {
