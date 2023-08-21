@@ -4,4 +4,4 @@ A Visual Studio Code theme that mashes the best of [Tokyo Night](https://marketp
 
 ## Screenshots
 Tokyo Panda
-![Screenshot - Tokyo Panda](https://raw.githubusercontent.com/effordDev/tokyo-panda-theme/master/static/tokyo-panda.png)
+![Screenshot - Tokyo Panda](https://raw.githubusercontent.com/effordDev/tokyo-panda-theme/main/static/tokyo-panda.png)
