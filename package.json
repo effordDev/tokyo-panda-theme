@@ -1,11 +1,14 @@
 {
   "name": "tokyo-panda-theme",
+  "publisher": "effordDev",
   "version": "1.0.0",
   "description": "A cats favourite colours - a VS Code Theme (mix of Tokyo Night + Panda Theme)",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "engines": {
+    "vscode": "^1.81.1"
   },
+  "categories": [
+    "Themes"
+  ],
   "keywords": [
     "theme",
     "tokyo",
@@ -15,5 +18,22 @@
     "developer"
   ],
   "author": "effordDev",
-  "license": "MIT"
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Panda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-panda-theme.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/effordDev/tokyo-panda-theme/issues",
+    "email": "dev@tokyotech.us"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/effordDev/tokyo-panda-theme.git"
+  }
 }
