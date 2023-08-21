@@ -1,7 +1,7 @@
 {
   "name": "tokyo-panda-theme",
   "publisher": "effordDev",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A cats favourite colours - a VS Code Theme (mix of Tokyo Night + Panda Theme)",
   "engines": {
     "vscode": "^1.81.1"
@@ -21,7 +21,7 @@
   "galleryBanner": {
     "color": "#B084EB",
     "theme": "dark"
-},
+  },
   "author": "effordDev",
   "license": "MIT",
   "contributes": {
