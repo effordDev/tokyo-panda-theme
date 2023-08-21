@@ -1,0 +1,19 @@
+{
+  "name": "tokyo-panda-theme",
+  "version": "1.0.0",
+  "description": "A cats favourite colours - a VS Code Theme (mix of Tokyo Night + Panda Theme)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "theme",
+    "tokyo",
+    "night",
+    "panda",
+    "dark",
+    "developer"
+  ],
+  "author": "effordDev",
+  "license": "MIT"
+}
