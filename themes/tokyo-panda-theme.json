@@ -90,6 +90,12 @@
         }
       },
       {
+        "scope": "variable.other.object.apex",
+        "settings": {
+          "foreground": "#A9B1D6"
+        }
+      },
+      {
         "scope": "variable.other.property",
         "settings": {
           "foreground": "#E6E6E6"
