@@ -576,9 +576,9 @@
 
       "progressBar.background": "#B084EB",
 
-      "button.background": "#45A9F9",
+      "button.background": "#ff3bbe",
       "button.foreground": "#FFFFFF",
-      "button.hoverBackground": "#676B79",
+      "button.hoverBackground": "#B084EB",
 
       "diffEditor.insertedTextBackground": "#19f9d866",
       "diffEditor.removedTextBackground": "#FF4B8266",
@@ -606,8 +606,8 @@
       "editor.findMatchHighlightBackground": "#FFB86C40",
       "editor.lineHighlightBackground": "#31353a",
 
-      "editorWidget.background": "#2a2c2d",
-      "editorWidget.border": "#373B41",
+      "editorWidget.background": "#B084EB",
+      "editorWidget.border": "#B084EB",
       "editorSuggestWidget.selectedBackground": "#19f9d899",
       "editorHoverWidget.background": "#31353a",
       
@@ -619,12 +619,14 @@
       "editorOverviewRuler.warningForeground": "#FFCC95",
       "editorOverviewRuler.infoForeground": "#6FC1FF",
       "extensionButton.prominentForeground": "#FFFFFF",
-      "extensionButton.prominentBackground": "#45A9F9",
+      "extensionButton.prominentBackground": "#ff3bbe",
       "extensionButton.prominentHoverBackground": "#676B79",
       "editorError.foreground": "#FF4B82",
       "editorError.border": "#292A2B",
+
       "editorWarning.foreground": "#FFCC95",
       "editorWarning.border": "#292A2B",
+      
       "editorGutter.modifiedBackground": "#FFCC95",
       "editorGutter.addedBackground": "#19f9d8",
       "editorGutter.deletedBackground": "#FF4B82",
