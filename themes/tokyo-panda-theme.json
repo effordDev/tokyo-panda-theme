@@ -578,7 +578,7 @@
 
       "button.background": "#ff3bbe",
       "button.foreground": "#FFFFFF",
-      "button.hoverBackground": "#B084EB",
+      "button.hoverBackground": "#ff4bbe",
 
       "diffEditor.insertedTextBackground": "#19f9d866",
       "diffEditor.removedTextBackground": "#FF4B8266",
@@ -633,8 +633,8 @@
       "gitDecoration.ignoredResourceForeground": "#757575",
       "list.hoverBackground": "#B084EB",
       "list.hoverForeground": "#1a1b26",
-      "list.focusBackground": "#292A2B",
-      "list.focusForeground": "#19f9d8",
+      "list.focusBackground": "#B084EB",
+      "list.focusForeground": "#1a1b26",
       "list.activeSelectionBackground": "#1a1b26",
       "list.activeSelectionForeground": "#19f9d8",
       "list.inactiveSelectionBackground": "#1a1b26",
