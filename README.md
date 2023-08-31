@@ -4,6 +4,9 @@ A Visual Studio Code theme that mashes the best of [Tokyo Night](https://marketp
 
 ## Screenshots
 Tokyo Panda
-![Screenshot 2023-08-23 at 9 28 20 AM](https://github.com/effordDev/tokyo-panda-theme/assets/36901822/98730a41-4a2d-4695-9596-239babecdcf2)
-![Screenshot 2023-08-23 at 9 29 00 AM](https://github.com/effordDev/tokyo-panda-theme/assets/36901822/4941478f-4858-4cf8-a12f-719d1c1ef590)
-![Screenshot 2023-08-23 at 9 29 50 AM](https://github.com/effordDev/tokyo-panda-theme/assets/36901822/b44b625d-3471-47cf-bd0f-8cbd1b6af25a)
+
+![Screenshot 2023-08-31 at 11 57 47 AM](https://github.com/effordDev/tokyo-panda-theme/assets/36901822/c0669770-a457-47c2-8427-b3e5ddaf7fc1)
+
+![Screenshot 2023-08-31 at 11 58 47 AM](https://github.com/effordDev/tokyo-panda-theme/assets/36901822/50182050-e896-4e30-8d02-149f3d00ddc4)
+
+![Screenshot 2023-08-31 at 12 00 16 PM](https://github.com/effordDev/tokyo-panda-theme/assets/36901822/3a8087dd-0c90-46e8-a256-62ce0d24d7c8)
