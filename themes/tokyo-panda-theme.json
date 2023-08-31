@@ -608,7 +608,14 @@
 
       "editorWidget.background": "#B084EB",
       "editorWidget.border": "#B084EB",
-      "editorSuggestWidget.selectedBackground": "#19f9d899",
+
+      "editorSuggestWidget.background": "#344255",
+      "editorSuggestWidget.foreground": "#1a1b26",
+      "editorSuggestWidget.selectedBackground": "#19f9d8",
+      "editorSuggestWidget.selectedForeground": "#1a1b26",
+      "editorSuggestWidget.focusHighlightForeground": "#234099",
+      "editorSuggestWidget.highlightForeground": "#1a1b26",
+
       "editorHoverWidget.background": "#31353a",
       
       "editorOverviewRuler.border": "#00000000",
