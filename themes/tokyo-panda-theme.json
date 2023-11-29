@@ -711,7 +711,8 @@
           "terminal.ansiMagenta": "#ebbbff",
           "terminal.ansiRed": "#ff9da4",
           "terminal.ansiWhite": "#cccccc",
-          "terminal.ansiYellow": "#ffeead",
+          "terminal.ansiYellow": "#ffeead"
+      // todo
       // "terminal.ansiBlue": "#45A9F9",
       // "terminal.ansiBrightBlack": "#757575",
       // "terminal.ansiBrightBlue": "#6FC1FF",
